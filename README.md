@@ -1,4 +1,6 @@
 # E-Commerce-Shipping
+Dataset - https://www.kaggle.com/datasets/prachi13/customer-analytics?resource=download
+
 Question/Problem Statement:
 Today’s world is an extremely opportunistic, yet complicated, time to be in E-Commerce. Competition is now on a global scale with millions of brands launching each year. As shopper expectations grow, the sellers need to find creative ways to go above and beyond to delight shoppers. With supply chain issues like labor shortages, port congestion, and freight and last-mile carrier costs increasing, it is very important to have trusted logistics partners to meet consumer demands and get goods shipped on time. 
 E-commerce shipping encompasses receiving and processing orders, picking and packing the purchased product at a warehouse, printing shipping labels, and even managing returns. All the moving pieces create a level of complexity that depends on the types and sizes of products you sell, to which regions you’ll deliver, the delivery options and shipping speeds you choose to offer and more. 
